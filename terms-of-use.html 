@@ -5,29 +5,52 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Terms of Use</title>
+
+
     <style>
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
-            margin: 20px;
+            margin: 0;
+            padding: 20px;
         }
 
-        h1,
-        h2,
-        h3 {
-            color: #333;
+        body {
+            background-color: #ffffff;
+            color: #000000;
         }
 
-        p {
-            margin: 10px 0;
+        @media (prefers-color-scheme: dark) {
+            body {
+                background-color: #121212;
+                color: #ffffff;
+            }
+
+            a {
+                color: #bb86fc;
+            }
+
+            h1,
+            h2,
+            h3,
+            h4,
+            h5,
+            h6 {
+                color: #ffffff;
+            }
+
+            p {
+                color: #e0e0e0;
+            }
         }
     </style>
+
 </head>
 
 <body>
 
     <h1>Terms of Use</h1>
-    <p>Effective date: Jun 1, 2024</p>
+    <p>Effective date: Jun 25, 2024</p>
 
     <p>Please read carefully these Terms of Use (“Terms”) before using the services offered by "Face Swap Video: Deep
         Fake".
@@ -251,10 +274,10 @@
     <p>If you have any questions about these Terms, please contact us:</p>
 
     <ul>
-        <li><strong>By email:</strong> publsoftwarehobby@gmail.com</li>
+        <li><strong>By email:</strong> faceswapapps@gmail.com</li>
     </ul>
 
-    <p>These Terms of Use were last updated on Jun 1, 2024.</p>
+    <p>These Terms of Use were last updated on Jun 25, 2024.</p>
 </body>
 
 </html>
